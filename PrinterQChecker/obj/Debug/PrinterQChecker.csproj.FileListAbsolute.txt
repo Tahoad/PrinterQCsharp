@@ -1,0 +1,10 @@
+J:\webdev\PrinterQChecker\PrinterQChecker\bin\Debug\PrinterQChecker.exe.config
+J:\webdev\PrinterQChecker\PrinterQChecker\bin\Debug\PrinterQChecker.exe
+J:\webdev\PrinterQChecker\PrinterQChecker\bin\Debug\PrinterQChecker.pdb
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.csproj.AssemblyReference.cache
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.Form1.resources
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.Properties.Resources.resources
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.csproj.GenerateResource.cache
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.csproj.CoreCompileInputs.cache
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.exe
+J:\webdev\PrinterQChecker\PrinterQChecker\obj\Debug\PrinterQChecker.pdb
